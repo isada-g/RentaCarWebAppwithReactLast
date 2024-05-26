@@ -1,0 +1,56 @@
+.comments-section {
+    margin-top: 2rem;
+    background-color: #f0f4f8; /* Daha açık bir arka plan rengi */
+    padding: 1rem;
+    border-radius: 10px;
+    border: 1px solid #d1e3f0; /* Hafif bir kenar rengi */
+}
+
+.comments-section h4 {
+    color: #007bff; /* Başlık için mavi renk */
+}
+
+.comment {
+    background-color: #ffffff; /* Beyaz arka plan */
+    border: 1px solid #d1e3f0; /* Hafif bir kenar rengi */
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    color: #333; /* Koyu gri metin rengi */
+}
+
+.comment-email {
+    font-weight: bold;
+    color: #007bff; /* Email için mavi renk */
+}
+
+.comment-time {
+    font-size: 0.8rem;
+    color: #6c757d; /* Açık gri renk */
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.comment-content {
+    color: #333; /* Koyu gri metin rengi */
+}
+
+.leave__comment-form {
+    margin-top: 2rem;
+}
+
+.leave__comment-form h4 {
+    margin-bottom: 1rem;
+    color: #007bff; /* Başlık için mavi renk */
+}
+
+.comment__btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.comment__btn:hover {
+    background-color: #0056b3;
+}
